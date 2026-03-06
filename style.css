@@ -74,7 +74,7 @@ nav.scrolled {
   border-radius: 50%;
   border: 2px solid var(--accent);
   padding: 2px;
-  background: var(--surface2);
+  background: var(--accent);
 }
 
 .nav-links {
